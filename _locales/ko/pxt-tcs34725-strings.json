@@ -1,0 +1,7 @@
+{
+  "RegisterHelper|block": "RegisterHelper",
+  "TCS34725.getSensorData|block": "%colorId 의 컬러 값",
+  "TCS34725.start|block": "누적시간 %atime 과  이득 %gain 의 초기값 설정및 센서 동작시키기",
+  "{id:category}RegisterHelper": "RegisterHelper",
+  "{id:category}TCS34725": "TCS34725"
+}

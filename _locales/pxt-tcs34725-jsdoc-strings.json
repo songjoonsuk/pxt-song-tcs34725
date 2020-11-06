@@ -1,0 +1,6 @@
+{
+  "RegisterHelper.readRegister8": "Read a 8-byte register of the address location",
+  "RegisterHelper.readRegisterInt16": "Read a (Int16) 16-byte register of the address location",
+  "RegisterHelper.readRegisterUInt16": "Read a (UInt16) 16-byte register of the address location",
+  "RegisterHelper.writeRegister": "Write register of the address location"
+}

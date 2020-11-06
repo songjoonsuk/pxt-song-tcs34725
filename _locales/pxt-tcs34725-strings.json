@@ -1,0 +1,7 @@
+{
+  "RegisterHelper|block": "RegisterHelper",
+  "TCS34725.getSensorData|block": "get color data %colorId",
+  "TCS34725.start|block": "Start sensor with integration time %atime and %gain",
+  "{id:category}RegisterHelper": "RegisterHelper",
+  "{id:category}TCS34725": "TCS34725"
+}
