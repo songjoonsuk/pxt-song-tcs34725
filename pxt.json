@@ -9,7 +9,9 @@
     "files": [
         "README.md",
         "main.ts",
-        "tcs34725.ts"
+        "tcs34725.ts",
+        "_locales/ko/pxt-tcs34725-strings.json",
+        "_locales/ko/pxt-tcs34725-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
