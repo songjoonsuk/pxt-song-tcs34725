@@ -1,5 +1,5 @@
 {
-    "name": "pxt-tcs34725 color sensor",
+    "name": "ColorSensor",
     "version": "0.0.2",
     "description": "Read color",
     "dependencies": {
@@ -9,8 +9,8 @@
         "README.md",
         "main.ts",
         "tcs34725.ts",
-        "_locales/ko/pxt-tcs34725-strings.json",
-        "_locales/ko/pxt-tcs34725-jsdoc-strings.json"
+        "_locales/ko/ColorSensor-strings.json",
+        "_locales/ko/ColorSensor-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
