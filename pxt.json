@@ -1,7 +1,7 @@
 {
-    "name": "pxt-tcs34725",
-    "version": "0.0.1",
-    "description": "",
+    "name": "pxt-tcs34725 color sensor",
+    "version": "0.0.2",
+    "description": "Read color",
     "dependencies": {
         "core": "*",
         "radio": "*"
